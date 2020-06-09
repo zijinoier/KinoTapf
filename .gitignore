@@ -9,3 +9,4 @@ build/
 test.py
 cbs_mapf.egg-info/
 saved/
+*.pyc
